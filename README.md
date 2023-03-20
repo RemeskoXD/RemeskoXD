@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT.
 - 🌱 I’m currently learning python, javaskript,html,css,php, database...
 - 💞️ I’m looking to collaborate on nice work.
-- 📫 How to reach me: email: emistorcz@gmail.com  .
+- 📫 How to reach me: email: ludvikremesekwork@gmail.com  .
 - ✨ I am czech.
 
 <!---
